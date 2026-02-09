@@ -1,0 +1,21 @@
+[Cross-Validation - Training]
+[codecarbon WARNING @ 13:23:44] Multiple instances of codecarbon are allowed to run at the same time.
+
+[Average Metrics - Cross-Validation]
+Accuracy: 0.6982 ± 0.0092
+Precision: 0.7195 ± 0.0081
+Recall:   0.6499 ± 0.0109
+F1-Score: 0.6829 ± 0.0076
+AUC:      0.7757 ± 0.0080
+
+[Final Training and Test Evaluation]
+
+[Carbon Footprint]
+Estimated emissions during training: 0.000011 kg CO₂eq
+
+[Test Set Performance]
+Accuracy: 0.7102
+Precision: 0.7248
+Recall:   0.6778
+F1-Score: 0.7060
+AUC:      0.7728
